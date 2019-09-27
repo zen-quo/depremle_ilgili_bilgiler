@@ -1,5 +1,5 @@
 # depremle_ilgili_bilgiler
-*bu yazı [şu](http://eksiduyu.ru/1382741) duyuruda ortaklaşa oluşturulan bilgileri içeriyor. daha okunaklı olması amacıyla buraya taşıdım. katkıda bulunmak için duyuru altına yazabilir ya da burdan öneride bulabilirsiniz.*
+* bu yazı şu [ekşi duyuru başlığında](http://eksiduyu.ru/1382741) ortaklaşa oluşturulan bilgileri içeriyor. daha okunaklı olması amacıyla buraya taşıdım. katkıda bulunmak için duyuru altına yazabilir ya da burdan öneride bulabilirsiniz.*
 
 * deprem öncesi, esnası ve sonrasında yapılacaklar, [evrim ağacı](https://evrimagaci.org/deprem-oncesi-esnasi-ve-sonrasinda-yapilacaklar-374)
 yakınlarınızla paylaşmayı unutmayın. deprem sırasında ne yapacağını bilmeyen bir sürü insan var. 
@@ -25,10 +25,10 @@ deprem çantası hazırlamayı, yakınlarınızla deprem sonrası için plan yap
 [google play](https://play.google.com/store/apps/details?id=me.bridgefy.main&hl=en_US)
 [ios](https://apps.apple.com/us/app/bridgefy/id975776347)
 
-* hayatta kalma ipuçları içeren başka bir [yazı](http://www.earthquakecountry.org/library/Petal_Rejoinder_to_Copp_0906.pdf)
+* hayatta kalma ipuçları içeren başka bir yazı: [earthquakecountry.org](http://www.earthquakecountry.org/library/Petal_Rejoinder_to_Copp_0906.pdf)
 **(teşekkürler jazzabel)**
 
-<details><summary>yazının kısa özeti</summary>
+<details><summary>earthquakecountry.org yazısının kısa özeti</summary>
 <p>
 
 yazının en başında marla petal'ın 99 depreminde ölüm sebebleri üzerine bir doktora çalışması yaptığından bahsetmiş. en altta        kaynaklarda tam adı yazıyor. bilimsel makale formatında değil ve yazarın ismi de yok ama mantıklı şeyler yazıyor gibi geldi bana. zaten doug copp isimli kişinin deneylere dayandırmadan iddialarda bulunduğundan bahsetmiş. bu kişi yani copp masa altında eğilip korunmanın ölümle sonuçlandığını ve ağır objelerin yanında oluşan boşlukta daha güvenli olunacağını savunuyor (yaşam üçgeni diye bahsedilen kavram). fakat copp'un yaptığı 'deney'in depremde sadece belli bi şekilde yıkılan binalar için geçerli olduğunu (pancaked. yassı şekilde çöken?) ve örneğin kocaeli depreminde bu şekilde yıkılan binaların toplam yıkılanların %3'ünden azını oluşturduğunu söylüyor (pancaked dışında 4 ayrı yıkılma şekli varmış). ve yine yazıya göre bu 'deney' gerçek deprem davranışını yansıtmıyormuş. mesela bina farklı yönde sallanırsa o ağır objenin altında ezilebilirmişiz. ve sonuç olarak bu gibi teorileri deney yaparak test etmek gerek diyor. 
@@ -36,7 +36,7 @@ yazının en başında marla petal'ın 99 depreminde ölüm sebebleri üzerine b
 </p>
 </details>
 
-<details><summary>5 ve 6. bölümdeki pratik bilgilerin çevirisi</summary>
+<details><summary>earthquakecountry.org'daki yazının 5 ve 6. bölümdeki pratik bilgilerinin çevirisi</summary>
 <p>
 
 > # 5 peki ne yapmalısın?
