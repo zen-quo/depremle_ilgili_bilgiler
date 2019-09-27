@@ -28,12 +28,17 @@ deprem çantası hazırlamayı, yakınlarınızla deprem sonrası için plan yap
 * hayatta kalma ipuçları içeren başka bir [yazı](http://www.earthquakecountry.org/library/Petal_Rejoinder_to_Copp_0906.pdf)
 **(teşekkürler jazzabel)**
 
-```yazının kısa özeti
-  yazının en başında marla petal'ın 99 depreminde ölüm sebebleri üzerine bir doktora çalışması yaptığından bahsetmiş. en altta        kaynaklarda tam adı yazıyor. bilimsel makale formatında değil ve yazarın ismi de yok ama mantıklı şeyler yazıyor gibi geldi bana. zaten doug copp isimli kişinin deneylere dayandırmadan iddialarda bulunduğundan bahsetmiş. bu kişi yani copp masa altında eğilip korunmanın ölümle sonuçlandığını ve ağır objelerin yanında oluşan boşlukta daha güvenli olunacağını savunuyor (yaşam üçgeni diye bahsedilen kavram). fakat copp'un yaptığı 'deney'in depremde sadece belli bi şekilde yıkılan binalar için geçerli olduğunu (pancaked. yassı şekilde çöken?) ve örneğin kocaeli depreminde bu şekilde yıkılan binaların toplam yıkılanların %3'ünden azını oluşturduğunu söylüyor (pancaked dışında 4 ayrı yıkılma şekli varmış). ve yine yazıya göre bu 'deney' gerçek deprem davranışını yansıtmıyormuş. mesela bina farklı yönde sallanırsa o ağır objenin altında ezilebilirmişiz. ve sonuç olarak bu gibi teorileri deney yaparak test etmek gerek diyor. 
-```
+<details><summary>yazının kısa özeti</summary>
+<p>
 
+yazının en başında marla petal'ın 99 depreminde ölüm sebebleri üzerine bir doktora çalışması yaptığından bahsetmiş. en altta        kaynaklarda tam adı yazıyor. bilimsel makale formatında değil ve yazarın ismi de yok ama mantıklı şeyler yazıyor gibi geldi bana. zaten doug copp isimli kişinin deneylere dayandırmadan iddialarda bulunduğundan bahsetmiş. bu kişi yani copp masa altında eğilip korunmanın ölümle sonuçlandığını ve ağır objelerin yanında oluşan boşlukta daha güvenli olunacağını savunuyor (yaşam üçgeni diye bahsedilen kavram). fakat copp'un yaptığı 'deney'in depremde sadece belli bi şekilde yıkılan binalar için geçerli olduğunu (pancaked. yassı şekilde çöken?) ve örneğin kocaeli depreminde bu şekilde yıkılan binaların toplam yıkılanların %3'ünden azını oluşturduğunu söylüyor (pancaked dışında 4 ayrı yıkılma şekli varmış). ve yine yazıya göre bu 'deney' gerçek deprem davranışını yansıtmıyormuş. mesela bina farklı yönde sallanırsa o ağır objenin altında ezilebilirmişiz. ve sonuç olarak bu gibi teorileri deney yaparak test etmek gerek diyor. 
 
-``` 5 ve 6. bölümdeki pratik bilgilerin çevirisi
+</p>
+</details>
+
+<details><summary>5 ve 6. bölümdeki pratik bilgilerin çevirisi</summary>
+<p>
+
 > # 5 peki ne yapmalısın?
 > * yaşadığın ve çalıştığın yerdeki senaryoları gözden geçir. hangi yerler daha güvenli görünüyor?
 > * büyük ve ağır objeleri sağlamlaştırarak bulunduğun yeri güvenli hale getir. ağır objeleri aşağıya koy. 
@@ -70,4 +75,6 @@ ne yazık ki dün gördük ki yalnız istanbulda değil tüm hatlarda sorun olu�
 > afete hazırlık tek gecede olmaz. evde iş yerinde okulda, mahallendende ve bölgende atılan küçük adımların birleşmesiyle olur. bireylerin ailelerin organizasyonların kurumların ve hükümetin eylemleriyle gerçekleşir. 
 
 son paragrafa istinaden, biz de deprem gerçeğiyle yeniden yüzleştiğimiz bu günlerde kendimize bi söz verip bu küçük adımları atmaya bugün başlayalım. 
-```
+
+</p>
+</details>
