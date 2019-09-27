@@ -1,0 +1,1 @@
+# depremle_ilgili_bilgiler
