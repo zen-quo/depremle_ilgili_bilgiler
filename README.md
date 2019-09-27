@@ -2,12 +2,14 @@
 *bu yazı [şu ekşi duyuru başlığında](http://eksiduyu.ru/1382741) ortaklaşa oluşturulan bilgileri içeriyor. daha okunaklı olması amacıyla buraya taşıdım. katkıda bulunmak için duyuru altına yazabilir ya da buradan öneride bulabilirsiniz.*
 
 * [deprem öncesi, esnası ve sonrasında yapılacaklar](https://evrimagaci.org/deprem-oncesi-esnasi-ve-sonrasinda-yapilacaklar-374)
+
 *yakınlarınızla paylaşmayı unutmayın. deprem sırasında ne yapacağını bilmeyen bir sürü insan var.*
 
 * [beklenen büyük istanbul depremi evrim ağacı yazısı](https://evrimagaci.org/beklenen-buyuk-istanbul-depremi-nedenleri-mekanizmalari-ve-bilimin-beklentileri-uzerine-13)
+
 *yukarıdaki link neden istanbul'da büyük bi depremin beklendiğini açıklıyor. yazı biraz uzun, tüm başlıklara göz atıp önemli bulduğunuz yerleri de okuyabilirsiniz.*
 
-**deprem çantası hazırlamayı, yakınlarınızla deprem sonrası için plan yapmayı, evinizdeki eşyaları sabitlemeyi, güvenli yerleri belirlemeye ertelemeyin. bulunduğunuz binaya güvenmiyorsanız binadakilerle anlaşıp uzman çağırın şimdi tam sırası, deprem yeni olduğu için binada birlik sağlamak daha kolay olur.**
+*deprem çantası hazırlamayı, yakınlarınızla deprem sonrası için plan yapmayı, evinizdeki eşyaları sabitlemeyi, güvenli yerleri belirlemeye ertelemeyin. bulunduğunuz binaya güvenmiyorsanız binadakilerle anlaşıp uzman çağırın şimdi tam sırası, deprem yeni olduğu için binada birlik sağlamak daha kolay olur.*
 
 * [e-devlet toplanma alanı sorgulama](https://www.turkiye.gov.tr/afet-ve-acil-durum-yonetimi-acil-toplanma-alani-sorgulama) (e-devlete giriş yapmanız gerekli)
 
@@ -17,15 +19,16 @@
 **(teşekkürler jimjim)**
 
 * [yerbilimleri.mta.gov.tr](http://yerbilimleri.mta.gov.tr/anasayfa.aspx)
+
 *harita üzerinde son depremler, fay hatları vb.*
 
 * [kandilli son depremler](http://www.koeri.boun.edu.tr/scripts/lst6.asp)
 
-* bluetooth üzerinden mesajlaşma uygulaması bridgefy
+* [bridgefy google play](https://play.google.com/store/apps/details?id=me.bridgefy.main&hl=en_US)
+  ve [bridgefy ios](https://apps.apple.com/us/app/bridgefy/id975776347)
 **(teşekkürler angelus)**
-[google play](https://play.google.com/store/apps/details?id=me.bridgefy.main&hl=en_US)
-ve
-[ios](https://apps.apple.com/us/app/bridgefy/id975776347)
+
+*bluetooth üzerinden mesajlaşma uygulaması.*
 
 * [hayatta kalma ipuçları içeren başka bir yazı](http://www.earthquakecountry.org/library/Petal_Rejoinder_to_Copp_0906.pdf) (earthquakecountry.org'dan)
 **(teşekkürler jazzabel)**
