@@ -83,3 +83,6 @@
   
   </p>
   </details>
+* [tokyo büyükşehir belediyesinden afete hazırlık rehberi](http://www.metro.tokyo.jp/english/guide/bosai/index.html) (ingilizce)
+
+*Rehberde depreme hazırlık süreçleri, deprem esnasında yapılacaklar ve deprem sonrası uygulanması gereken müdahaleler detaylı olarak açıklanıyor.* (açıklama alıntısı: [arkitera](http://www.arkitera.com/haber/tokyo-buyuksehir-belediyesinden-afete-hazirlik-rehberi/))
