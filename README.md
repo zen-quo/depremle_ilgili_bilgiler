@@ -86,3 +86,8 @@
 * [tokyo büyükşehir belediyesinden afete hazırlık rehberi](http://www.metro.tokyo.jp/english/guide/bosai/index.html) (ingilizce)
 
 *Rehberde depreme hazırlık süreçleri, deprem esnasında yapılacaklar ve deprem sonrası uygulanması gereken müdahaleler detaylı olarak açıklanıyor.* (açıklama alıntısı: [arkitera](http://www.arkitera.com/haber/tokyo-buyuksehir-belediyesinden-afete-hazirlik-rehberi/))
+
+* [depremden önce bina kontrolü yapmak (ekşi sözlük)](https://eksisozluk.com/depremden-once-bina-kontrolu-yapmak--6194666)
+
+* [deprem seferberliği (ekşi sözlük)](https://eksisozluk.com/30-eylul-2019-deprem-seferberliginin-baslangici--6196262?a=popular)
+  >  30 eylül 2019 deprem seferberliğinim başlangıcı; halkta büyük bir farkındalık yaratmak ve depremin ciddiyetini kavrayıp toplu olarak harekete geçilmesi için açılmış bir başlıktır. bugünden itibaren başta istanbul olmak üzere tüm türkiye'nin depreme karşı hazırlık ve savaş başlığıdır. 
